@@ -15,4 +15,4 @@ Projeyi yerel olarak kurmak için şu adımları takip edebilirsiniz:
    ```bash
    git clone https://github.com/mustafasrbs/FigmaToHtml.git
 
- - **Canlı Demo:** [Akinpn]([https://mustafasrbs.github.io/Todolist.github.io/](https://mustafasrbs.github.io/akinon/))
+ - **Canlı Demo:** https://mustafasrbs.github.io/FigmaToHtml/
